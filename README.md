@@ -1,1 +1,1 @@
-# qajs_lesson
+# TMS_bodlinka_hw_2
